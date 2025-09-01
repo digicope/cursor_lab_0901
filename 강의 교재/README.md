@@ -1,4 +1,4 @@
-### 강의 관련 URL
+### Cursor 관련 URL
 
 - Cursor 설치파일 다운로드 페이지 <br>
 https://cursor.com/home?from=agents <br>
@@ -10,7 +10,7 @@ https://docs.cursor.com/en/welcome <br>
 https://forum.cursor.com/   <br>
 
 
-### LLM
+### LLM 관련 URL
 
 - OpenAI API platform 사이트 <br>
 https://platform.openai.com/ <br>
