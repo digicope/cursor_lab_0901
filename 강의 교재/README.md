@@ -9,6 +9,9 @@ https://docs.cursor.com/en/welcome <br>
 - Cursor 포럼 <br>
 https://forum.cursor.com/   <br>
 
+
+### LLM
+
 - OpenAI API platform 사이트 <br>
 https://platform.openai.com/ <br>
 
