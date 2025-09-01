@@ -1,7 +1,7 @@
 ##  AI와 협업하는 프로그래밍, 바이브 코딩 과정 (2025.09.01~09.12)
 <br>
 
-## git 주소 :    https://github.com/digicope/cursor_lab_0901
+## git 주소 :   github.com/digicope/cursor_lab_0901
 <br>
 
 
