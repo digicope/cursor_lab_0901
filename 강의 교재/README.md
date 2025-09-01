@@ -30,3 +30,6 @@ https://console.anthropic.com/
 - Gemini 사이트 <br>
 https://gemini.google.com/
 
+  구글 Gemini API 사이트 <br>
+https://aistudio.google.com/
+
