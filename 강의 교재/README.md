@@ -11,3 +11,6 @@ https://forum.cursor.com/   <br>
 
 - OpenAI API platform 사이트 <br>
 https://platform.openai.com/ <br>
+
+- OpenAI API playground 사이트 <br>
+https://platform.openai.com/chat <br>
